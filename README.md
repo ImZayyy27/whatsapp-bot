@@ -17,7 +17,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/whatsapp-bot
+> git clone https://github.com/ImZayyy27/whatsapp-bot
 ```
 
 ## Install the dependencies:
